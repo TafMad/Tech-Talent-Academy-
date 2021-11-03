@@ -1,0 +1,5 @@
+starterCourse=input("what is your favourite starter meal ?")
+mainCourse=input("what is your favourite main course meal?")
+dessertChoice=input("what is your dessert choice?")
+drinkChoice=input("what drink would you like?")
+print("Your favourite meal is",starterCourse, mainCourse, dessertChoice,"with a glass of",drinkChoice)
